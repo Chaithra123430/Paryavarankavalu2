@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Paryavaran-Kavalu</string>
+    <string name="google_maps_key">AIzaSyDZ4vd6wzWjfWo_gnPt3-8TYBzqJnz33iY</string>
+    <string name="new_report">New Report</string>
+    <string name="your_impact">Your Impact</string>
+    <string name="eco_karma_points">Eco-Karma Points</string>
+    <string name="eco_karma_points_label">Eco-Karma: 0</string>
+    <string name="total_reports">Total Reports: %1$d</string>
+    <string name="spots_cleaned">Spots Cleaned: %1$d</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="select_waste_type">Select Waste Type</string>
+    <string name="mark_as_cleaned">Mark as Cleaned</string>
+    <string name="clean_dialog_title">Clean Blackspot</string>
+    <string name="clean_dialog_msg">Have you cleaned this %1$s waste spot? Confirm to earn Eco-Karma.</string>
+    <string name="location_error">Unable to secure GPS lock. Please check settings.</string>
+    <string name="report_success">Report registered! +10 Eco-Karma.</string>
+    <string name="clean_success">Spot verified as cleaned! +5 Eco-Karma.</string>
+    <string name="star_icon_desc">Star Icon</string>
+    <string name="location_searching">Searching for location…</string>
+</resources>
