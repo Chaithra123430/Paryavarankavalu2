@@ -53,6 +53,14 @@ Blackspot Reporting
 Cleanup Confirmation
 Eco-Karma Impact Dashboard
 
+<img width="1080" height="2400" alt="p1" src="https://github.com/user-attachments/assets/3eb44af5-3546-4e2f-b701-1a1a074f4ac3" />
+<img width="1080" height="2400" alt="p2" src="https://github.com/user-attachments/assets/45378be1-9d4d-4fd1-abe3-dbc5cb2416dc" />
+<img width="1080" height="2400" alt="p3" src="https://github.com/user-attachments/assets/18210dfd-bd14-4f87-a57f-7a49559cf932" />
+<img width="1080" height="2400" alt="p4" src="https://github.com/user-attachments/assets/9feef63b-434b-48b5-84e2-7ca1caa58b9f" />
+<img width="1080" height="2400" alt="p5" src="https://github.com/user-attachments/assets/a0e0fb25-f986-4194-bd7b-543baa1438b5" />
+<img width="1080" height="2400" alt="p6" src="https://github.com/user-attachments/assets/9a0d932f-061a-4dba-92fe-98a543f7a59c" />
+<img width="1080" height="2400" alt="p7" src="https://github.com/user-attachments/assets/80d0e70c-608a-4940-a36b-df0870c2bfb7" />
+
  Future Enhancements
 Firebase Cloud Integration
 AI-based Waste Detection
